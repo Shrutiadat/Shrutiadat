@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiadat&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiadat" /> </p>
 
-- 🔭 I’m currently working on **Java projects**
+- 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
