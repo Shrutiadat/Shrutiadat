@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 💻 Hobbies **Photography Travelling**
+- 💻 Hobbies **Photography and Travelling**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **Shrutiadat1705@gmail.com**
+- 📫 How to reach me **shrutiadat1705@gmail.com**
 
 - ⚡ Fact **I love Coding And Coffee☕**
 
