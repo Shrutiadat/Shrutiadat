@@ -1,13 +1,13 @@
 <h1 align="center">Hello There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Shruti💜</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiadat&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiadat" /> </p>
 
-- 🔭 I’m currently working on **Python projects**
+- 🔭 I’m currently working on **Frontend projects**
 
-- 🌱 I’m currently learning **Data Science and Data Analyst **
+- 🌱 I’m currently learning **AI-powered data automation**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
