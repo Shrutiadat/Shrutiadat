@@ -1,170 +1,51 @@
-# Hi there! 👋 I'm Shruti Adat
+<h1 align="center">Hello There <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Shruti💜</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;JavaScript+Developer;Building+Beautiful+Interfaces!)
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutiadat&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiadat" /> </p>
 
-## 🎨 About Me
+- 🔭 I’m currently working on **Python projects**
 
-```javascript
-const shrutiAdat = {
-    role: "Frontend Developer",
-    location: "India 🇮🇳",
-    currentFocus: ["Modern JavaScript", "Responsive Design", "UI/UX"],
-    learning: ["Data Science & Analytics", "Advanced CSS", "Web Performance"],
-    hobbies: ["Photography 📸", "Travelling ✈️", "UI Design"],
-    coffeeLevel: "Always High ☕",
-    
-    skills: {
-        languages: ["JavaScript (ES6+)", "HTML5", "CSS3", "Python"],
-        styling: ["CSS3", "SASS/SCSS", "Tailwind CSS", "Bootstrap"],
-        tools: ["Git", "GitHub", "VS Code", "Figma", "Chrome DevTools"],
-        databases: ["MySQL"],
-        currentlyExploring: "Data Visualization & Interactive UIs"
-    },
-    
-    sayHi() {
-        console.log("Thanks for stopping by! Let's create something beautiful together! 🚀");
-    }
-};
+- 🌱 I’m currently learning **Data Science and Data Analyst **
 
-shrutiAdat.sayHi();
-```
+- 👯 I’m looking to collaborate on **Any Project**
 
-## 🚀 What I'm Currently Doing
+- 💻 Hobbies **Photography and Travelling**
 
-- 🎯 Building **responsive and interactive web applications** with vanilla JavaScript
-- 🌱 Learning **Data Science & Analytics** to create data-driven visualizations
-- 💡 Mastering **modern CSS techniques**, animations, and best practices
-- 👯 Open to collaborate on **Frontend Projects** and **Open Source**
-- 💬 Ask me about **JavaScript, HTML/CSS, Web Design, UI/UX**
-- ⚡ Fun fact: **I love turning coffee into code** ☕➡️💻
+- 💬 Ask me about **Anything**
 
-## 💼 Frontend Tech Stack
+- 📫 How to reach me **shrutiadat1705@gmail.com**
 
-<div align="center">
+- ⚡ Fact **I love Coding And Coffee☕**
 
-### Core Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shrutiadat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutiadat" height="30" width="40" /></a>
+<a href="https://instagram.com/shrutidat1705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutidat1705" height="30" width="40" /></a>
+</p>
 
-### Styling & Frameworks
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutiadat&show_icons=true&locale=en&layout=compact" alt="shrutiadat" /></p>
 
-### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutiadat&show_icons=true&locale=en" alt="shrutiadat" /></p>
 
-### Build Tools & Package Managers
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiadat&" alt="shrutiadat" /></p>
 
-### Deployment & Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
-### Backend & Database (Basic)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-</div>
+### Spotify Playing 🎧
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiadat1705&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutiadat1705&theme=radical&hide_border=true&background=0D1117&ring=9745F5&fire=9745F5&currStreakLabel=9745F5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiadat1705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745F5)
-
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shrutiadat1705&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
-## 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shrutiadat1705&theme=react-dark&hide_border=true&area=true&color=9745F5&line=9745F5&point=FFFFFF)](https://github.com/shrutiadat1705)
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutiadat1705&repo=your-awesome-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5)](https://github.com/shrutiadat1705/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutiadat1705&repo=your-portfolio-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5)](https://github.com/shrutiadat1705/your-portfolio-website)
-
-</div>
-
-## 💻 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-shrutiadat1705.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
-
-</div>
-
-## 📝 Latest Articles I'm Reading
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutiadat1705@gmail.com)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yourprofile)
-
-</div>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
 
-<div align="center">
-
-### 💼 Open for Frontend Developer Opportunities
-
-*"First, solve the problem. Then, write the code."* - John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=shrutiadat1705&color=9745F5&style=for-the-badge)
-
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+ 
 </div>
+
+
+<div align="center">
